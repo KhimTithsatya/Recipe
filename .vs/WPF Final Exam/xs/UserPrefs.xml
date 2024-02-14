@@ -1,8 +1,6 @@
-﻿<Properties StartupConfiguration="{8603A67B-9FDF-4FF0-A3CD-51F76DB9C65C}|Default">
+﻿<Properties StartupConfiguration="{8603A67B-9FDF-4FF0-A3CD-51F76DB9C65C}|Default" GitUserInfo="UsingMD">
   <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
