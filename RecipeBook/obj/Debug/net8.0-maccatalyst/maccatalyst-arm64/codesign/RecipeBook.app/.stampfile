@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/khimtithsatya/WPF PROJECT/WPF Final Exam/RecipeBook/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/khimtithsatya/WPF PROJECT/WPF Final Exam/RecipeBook/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/RecipeBook.app
