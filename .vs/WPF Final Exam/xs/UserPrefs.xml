@@ -1,15 +1,17 @@
 ﻿<Properties StartupConfiguration="{8603A67B-9FDF-4FF0-A3CD-51F76DB9C65C}|Default" GitUserInfo="UsingMD">
   <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.RecipeBook PreferredExecutionTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RecipeBook/Resources/Styles/Styles.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecipeBook/MainPage.xaml">
     <Files>
-      <File FileName="RecipeBook/MainPage.xaml.cs" />
+      <File FileName="RecipeBook/MainPage.xaml.cs" Line="1" Column="1" />
       <File FileName="RecipeBook/MainPage.xaml" Line="19" Column="9" />
-      <File FileName="RecipeBook/Models/Recipe.cs" Line="1" Column="1" />
+      <File FileName="RecipeBook/Models/Recipe.cs" Line="18" Column="2" />
       <File FileName="RecipeBook/ViewModels/MainViewModel.cs" Line="16" Column="5" />
       <File FileName="RecipeBook/App.xaml" Line="1" Column="1" />
       <File FileName="RecipeBook/AppShell.xaml" Line="1" Column="1" />
@@ -19,19 +21,20 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="WPF Final Exam" expanded="True">
-            <Node name="RecipeBook" expanded="True">
+          <Node name="WPF Final Exam">
+            <Node name="RecipeBook">
               <Node name="Models" expanded="True" />
               <Node name="Resources" expanded="True">
-                <Node name="Styles" expanded="True">
-                  <Node name="Styles.xaml" selected="True" />
-                </Node>
+                <Node name="Styles" expanded="True" />
               </Node>
               <Node name="ViewModels" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

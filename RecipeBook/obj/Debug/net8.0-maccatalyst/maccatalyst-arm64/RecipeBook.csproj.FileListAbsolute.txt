@@ -299,6 +299,7 @@
 /Users/khimtithsatya/WPF PROJECT/WPF Final Exam/RecipeBook/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/RecipeBook.pdb
 /Users/khimtithsatya/WPF PROJECT/WPF Final Exam/RecipeBook/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/RecipeBook.genruntimeconfig.cache
 /Users/khimtithsatya/WPF PROJECT/WPF Final Exam/RecipeBook/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/RecipeBook.dll
+/Users/khimtithsatya/WPF PROJECT/WPF Final Exam/RecipeBook/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/RecipeBook.sourcelink.json
 /Users/khimtithsatya/WPF PROJECT/WPF Final Exam/RecipeBook/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/CommunityToolkit.Mvvm.stamp
 /Users/khimtithsatya/WPF PROJECT/WPF Final Exam/RecipeBook/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.CSharp.stamp
 /Users/khimtithsatya/WPF PROJECT/WPF Final Exam/RecipeBook/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp

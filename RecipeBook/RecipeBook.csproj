@@ -69,9 +69,13 @@
 	<ItemGroup>
 	  <None Remove="Models\" />
 	  <None Remove="ViewModels\" />
+	  <None Remove="Resources\Images\soup.png" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Folder Include="Models\" />
 	  <Folder Include="ViewModels\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <BundleResource Include="Resources\Images\soup.png" />
 	</ItemGroup>
 </Project>
